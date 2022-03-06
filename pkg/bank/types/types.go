@@ -6,6 +6,7 @@ type Money int64
 // Category представляет собой категориюб в которой был совершён платёж (авто, аптеки, рестораны и т.д.).
 type Category string
 
+
 // Status представляет статус платежа.
 type Status string
 
